@@ -1,6 +1,7 @@
-# devoir2
-# Louay Bounouh 
-# Alexandre 
-# Hugo 
+# noms
+ Louay Bounouh 
+ Alexandre 
+ Hugo 
 
-# Les cv sont stocker dans tp3/src/CvFolder
+# info 
+Les cv sont stocker dans tp3/src/CvFolder
