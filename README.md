@@ -1,7 +1,7 @@
 # noms
- Louay Bounouh 
- Alexandre 
- Hugo 
+ Louay BOUNOUH 
+ Alexandre FERRARINI 
+ Hugo FERNANDEZ FERRERES
 
 # info 
 Les cv sont stocker dans tp3/src/CvFolder
